@@ -26,8 +26,21 @@ Websites
 Class times
   ~ MTWRF 10am-12pm in SCH102.
 
-## Course Description
+## Course Description and Goals
 
+This course is a study of formal mathematical proofs. More than any other discipline, mathematics relies on a very precise method for ascertaining what is a true statement and what is not. There can be no doubt whatsoever about the veracity of any claim. Everything is built step by step from a set of assumptions and following formal logic laws. In this course we will learn to work with this system of reasoning. In other words, you will learn to think, write and talk like a mathematician. In particular, you will learn what mathematicians mean when they use certain words and phrases; these meanings often differ from the colloquial usage of the very same words and phrases.
+
+Along the way we will also learn key facts about sets, relations and functions, all fundamental concepts upon which most of further mathematical study is based. We will learn the basic definitions and properties of these constructs, and we will get a glimpse of how we can build more elaborate structures on top of this foundation; you will get the opportunity to explore this topic further as you continue your mathematical studies.
+
+By the end of this course:
+
+- You will be comfortable with the essential formal logic concepts required for all mathematical reasoning.
+- You will have become familiar with the fundamental proof techniques employed by mathematicians.
+- You will be able to critically examine a mathematical proof for errors.
+- You will be able to systematically construct proofs or counterexamples for mathematical statements.
+- You will have learned to write and talk like a mathematician, and will have had ample opportunity to practice these skills.
+- You will be comfortable with the principle of mathematical induction, its various forms and its usage in proving statements.
+- You will have developed a solid understanding of the concepts of sets and relations, which form the foundation for higher mathematics.
 
 ## Course Components
 

@@ -144,6 +144,7 @@ A week-by-week breakdown of the material.
 - Quiz 18 (Due Wednesday night)
 
 ### Friday
+
 - Wrap-up
 - Exam 4
 
