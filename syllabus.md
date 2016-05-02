@@ -46,9 +46,11 @@ By the end of this course:
 
 ### Reading Notes and Practice Quizzes
 
-On the website you will find a [schedule](http://skiadas.github.io/LogicSetsCourse/site/schedule.html) with links to documents for each class day. In those documents you will find notes for the day's lesson, a reading assignment, and a list of practice problems. You should work on those practice problems, and ask any questions you have about them. You do not have to turn the problems in.
+On the website you will find a [schedule](http://skiadas.github.io/LogicSetsCourse/site/schedule.html) with links to documents for each class day. In those documents you will find notes for the next day's lesson, a reading assignment, and a list of practice problems. You should work on those practice problems, and ask any questions you have about them. You do not have to turn the problems in.
 
-There will be daily quizzes based on the reading assignments. These will be due the night before. For example on Monday you will find posted reading assignments for Tuesday. The quiz corresponding to these assignments is due Monday night. You will have exactly two attempts on each quiz, and your scores in the two attempts will be averaged.
+There will be daily quizzes based on the reading assignments. These will be due the night before. For example on Monday you will find posted reading assignments for Tuesday, listed under the Tuesday section in the schedule. The quiz corresponding to these assignments is due Monday night. You will have exactly two attempts on each quiz, and your scores in the two attempts will be averaged.
+
+**A note on reading mathematics**: Reading mathematical texts is unlike other textbooks. Each line and each word is critical. Mathematical proofs don't contain superfluous information, every word is there because it is needed. You cannot understand the precise meaning of a mathematical statement by simply skimming through it. When you read through the book, especially the proofs, definitions, theorems etc, read very slowly and intentionally, looking at every word and connecting it to the rest of the sentence.
 
 ### Class Attendance
 
@@ -60,7 +62,7 @@ There will be daily homework assignments. They will usually be divided between a
 
 ### Class Participation
 
-A significant goal for the course is for the students to develop their ability to discuss mathematical statements and proofs. Therefore a part of the course grade represents the level to which students achieve this. There are a number of ways in which you can accumulate "participation points":
+A significant goal for the course is for the students to develop the ability to discuss mathematical statements and proofs. Therefore a part of the course grade represents the level to which students achieve this. There are a number of ways in which you can accumulate "participation points":
 
 - You can present a proof on the board. This counts for 4 points (2 points if you present a proof that is missing too many pieces).
 - You can offer feedback that would improve a presentation. This counts for up to 2 points.
@@ -76,7 +78,39 @@ There will be four exams, one on each Friday. In terms of your final grade, the 
 
 - You should never hesitate to ask me questions. I will never think any less of anyone for asking a question. Stop by my office hours or just email me your question, which has the great benefit of forcing you to write it down in clear terms, which often helps you understand it better.
 - You are allowed, and in fact encouraged, to work together and help each other regarding the notes and the practice problems. However, I strongly encourage you to try the problems out on your own first before talking to someone about them.
-- You may discuss homework problems with others, but only after you have spent some time trying them on your own. And in any event the submitted work must be your own! So even though you may talk to others about the problem, when you sit down to write the answers you should be on your own.
+- You may discuss homework problems with others, but only after you have spent some time trying them on your own. And in any event the submitted work must be your own! So even though you may talk to others about the problem, you should not share solutions with them, when you sit down to write the answers you should be on your own.
+
+### Workload
+
+There are many components to this class, and many different things you would need to do after class on each given day:
+
+- There are notes to review based on the material we covered in class that day.
+- There is reading and a quiz to do based on the material for the *next* class.
+- There is a written assignment to prepare based on the material covered in class that day.
+- There are practice problems to do for the material in the next class, as well as the current class (if any are left from the previous day).
+
+Roughly each day you would need to work on the following, broadly in that order:
+
+1. Review the notes from class, and put together any questions you may have.
+2. Finish any practice problems you may have from the previous day.
+3. Prepare your written assignments:
+    - Work each problem in a scratch piece of paper first.
+    - Once you feel confident about an answer, write a clean version of your solution on the paper for submission.
+    - Make sure to use full sentences. Your answer should be readable.
+4. Look at the reading material for the next day. They are divided into 3-4 sections per day. You would typically want to:
+    - Look at the notes page for each section.
+    - Read the corresponding book pages referred to in the notes, without looking at the questions in the notes page.
+    - Close the book and try to answer the questions in the notes page. *Write down your answers.*
+    - Open the book back up and compare your answers with information in the book.
+    - Make note of any questions you had trouble with. Make a point to ask about them in class, and revisit them at a later day.
+    - Try some of the practice problems.
+5. When you feel ready and have completed the reading for that "day", take the corresponding quiz. Each listed quiz refers to the reading of the same day that it is listed (so for example quiz 1, which is due on Monday, refers to the reading material for Tuesday and is listed with that material). The first day's reading material will in effect be double.
+6. If you missed some question on the quiz, review the notes before attempting the quiz a second time.
+7. Work on any remaining practice problems.
+8. Prepare the problems that are for in-class presentation.
+8. Time permitting, start working on the next written assignment.
+
+This course carries the equivalent of 1 unit of credit, or what is considered 4 semester hours. Each semester hour corresponds to 3 hours of workload, typically one hour of class plus two hours of work outside of class, for 15 weeks. The total expectation is therefore $15\times 4\times 3 /20 = 9$ hours of work per day, or roughly 7 hours of work each day outside of the 2-hour meeting. This is the amount of study time you should expect to spend on this class each day. On some days it may be less, but don't be surprised if on some days it takes you that long to cover the material.
 
 ## Grading
 

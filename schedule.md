@@ -7,38 +7,50 @@ A week-by-week breakdown of the material.
 ### Monday
 
 - Introduction
-- Writing Mathematics
-- Sets, set notation
-- Subsets
-- Set Operations
-- Quiz 0 (Due Monday night together with Quiz 1)
+- [Writing Mathematics](notes/writing.md)
+- [Sets, set notation](notes/sets_notation.md)
+- [Subsets](notes/subsets.md)
+- [Set Operations](notes/set_operations.md)
+- [Quiz 0](https://moodle.hanover.edu/mod/quiz/view.php?id=19351) (Due Monday night together with Quiz 1)
+- [Homework 1 due Tuesday](assignments/hw1.md)
+- Prepare for class presentation:
+    - Exercises 1.9, 1.19, 1.34
 
 ### Tuesday
 
-- Indexed Collections of sets
-- Set Partitions
-- Cartesian Products
-- Quiz 1 (Due Monday night)
+- [Indexed Collections of sets](notes/indexed_collections.md)
+- [Set Partitions](notes/sets_partitions.md)
+- [Cartesian Products](notes/cartesian_products.md)
+- [Quiz 1](https://moodle.hanover.edu/mod/quiz/view.php?id=19389) (Due Monday night together with Quiz 2)
+- [Homework 2 due Wednesday](assignments/hw2.md)
+- Prepare for class presentation:
+    - Exercises 1.41, 1.54
 
 ### Wednesday
 
-- Statements
-- Negations
-- Disjunction and Conjunction
-- Implications
-- Quiz 2 (Due Tuesday night)
+- [Statements](notes/statements.md)
+- [Negations](notes/negation.md)
+- [Disjunction and Conjunction](notes/disjunction_conjunction.md)
+- [Implications](notes/implications.md)
+- [Quiz 2](https://moodle.hanover.edu/mod/quiz/view.php?id=19403) (Due Tuesday night)
+- [Homework 3 due Thursday](assignments/hw3.md)
+- Prepare for class presentation:
+    - Exercises 2.18, 2.29, 2.32
 
 ### Thursday
 
-- More implications
-- Biconditional
-- Tautologies, Contradictions
-- Quiz 3 (Due Wednesday night)
+- [Biconditional](notes/biconditional.md)
+- [Tautologies, Contradictions](notes/tautologies_contradictions.md)
+- [Logical Equivalence](notes/logical_equivalence.md)
+- [Fundamental properties of logical equivalence](notes/logical_equiv_properties.md)
+- [Quiz 3](https://moodle.hanover.edu/mod/quiz/view.php?id=19429) (Due Wednesday night)
+- [Homework 4 due Friday](assignments/hw4.md)
+- Prepare for class presentation:
+    - Exercises 2.39, 2.50, 2.53
 
 ### Friday
 
-- Logical Equivalence
-- Fundamental properties of logical equivalence
+- Quantifiers
 - Quiz 4 (Due Thursday night)
 - Exam 1
 
@@ -46,7 +58,6 @@ A week-by-week breakdown of the material.
 
 ### Monday
 
-- Quantifiers
 - Characterization
 - Quiz 5 (Due Sunday night)
 
