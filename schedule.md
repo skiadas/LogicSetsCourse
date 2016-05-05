@@ -50,24 +50,23 @@ A week-by-week breakdown of the material.
 
 ### Friday
 
-- [Quantified Statements](notes/quantified_statements.md)
-- [Characterization](notes/characterization.md)
-- [Quiz 4](https://moodle.hanover.edu/mod/quiz/view.php?id=19644) (Due Thursday night)
-- [Homework 5 due Monday](assignments/hw5.md)
 - Exam 1
 
 ## Week  2
 
 ### Monday
 
-- Quiz 5 (Due Sunday night)
+- [Quantified Statements](notes/quantified_statements.md)
+- [Characterization](notes/characterization.md)
+- [Quiz 4](https://moodle.hanover.edu/mod/quiz/view.php?id=19644) (Due Sunday night)
+- [Homework 5 due Tuesday](assignments/hw5.md)
 
 ### Tuesday
 
 - Trivial and Vacuous Proofs
 - Direct Proofs
 - Proof by Contrapositive
-- Quiz 6 (Due Monday night)
+- Quiz 5 (Due Sunday night)
 
 ### Wednesday
 
@@ -75,14 +74,14 @@ A week-by-week breakdown of the material.
 - Direct and Contrapositive proofs for divisibility
 - Direct and Contrapositive proofs for congruence
 - Direct and Contrapositive proofs for real numbers
-- Quiz 7 (Due Tuesday night)
+- Quiz 6 (Due Monday night)
 
 ### Thursday
 
 - Proofs involving sets
 - Properties of set operations
 - Proofs involving cartesian products of sets
-- Quiz 8 (Due Wednesday night)
+- Quiz 7 (Due Tuesday night)
 
 ### Friday
 
@@ -98,31 +97,31 @@ A week-by-week breakdown of the material.
 - Proofs by contradiction
 - Existence proofs
 - Disproving existence statements
-- Quiz 10 (Due Sunday night)
+- Quiz 8 (Due Wednesday night)
 
 ### Tuesday
 
 - Principle of Mathematical Induction
 - General Principle of Mathematical Induction
 - Strong Principle of Mathematical Induction
-- Proofs by Minimum Counterexample
-- Quiz 11 (Due Monday night)
+- Quiz 10 (Due Sunday night)
 
 ### Wednesday
 
+- Proofs by Minimum Counterexample
 - Conjectures
 - Introduction to Relations
-- Quiz 12 (Due Tuesday night)
+- Quiz 11 (Due Monday night)
 
 ### Thursday
 
 - Properties of Relations
 - Equivalence Relations
-- Quiz 13 (Due Wednesday night)
+- Quiz 12 (Due Tuesday night)
 
 ### Friday
 
-- Equivalence Classes
+- Catchup
 - Quiz 14 (Due Thursday night)
 - Exam 3
 
@@ -130,33 +129,35 @@ A week-by-week breakdown of the material.
 
 ### Monday
 
+- Equivalence Classes
 - Congruences as an equivalence
+- Quiz 13 (Due Wednesday night)
+
+### Tuesday
+
 - Arithmetic on Integers modulo n
 - Definition of functions
 - Quiz 15 (Due Sunday night)
 
-### Tuesday
+### Wednesday
 
 - One-to-one and onto functions
 - Bijective functions, Inverse function
 - Image and inverse image of sets under functions/relations. Properties
 - Quiz 16 (Due Monday night)
 
-### Wednesday
+### Thursday
 
 - Numerically Equivalent sets
 - Denumerable sets
 - Quiz 17 (Due Tuesday night)
 
-### Thursday
+### Friday
 
 - Uncountable sets
 - Comparing cardinalities
 - Schroder-Bernstein theorem
 - Quiz 18 (Due Wednesday night)
-
-### Friday
-
 - Wrap-up
 - Exam 4
 
