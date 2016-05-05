@@ -50,15 +50,16 @@ A week-by-week breakdown of the material.
 
 ### Friday
 
-- Quantifiers
-- Quiz 4 (Due Thursday night)
+- [Quantified Statements](notes/quantified_statements.md)
+- [Characterization](notes/characterization.md)
+- [Quiz 4](https://moodle.hanover.edu/mod/quiz/view.php?id=19644) (Due Thursday night)
+- [Homework 5 due Monday](assignments/hw5.md)
 - Exam 1
 
 ## Week  2
 
 ### Monday
 
-- Characterization
 - Quiz 5 (Due Sunday night)
 
 ### Tuesday
