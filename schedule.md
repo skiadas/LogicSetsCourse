@@ -63,10 +63,12 @@ A week-by-week breakdown of the material.
 
 ### Tuesday
 
-- Trivial and Vacuous Proofs
-- Direct Proofs
-- Proof by Contrapositive
-- Quiz 5 (Due Sunday night)
+- [Trivial and Vacuous Proofs](notes/trivial_vacuous_proofs.md)
+- [Direct Proofs](notes/direct_proofs.md)
+- [Proof by Contrapositive](notes/contrapositive.md)
+- Prepare for class presentation:
+    - Exercises 3.10, 3.18
+- [Quiz 5](https://moodle.hanover.edu/mod/quiz/view.php?id=19782) (Due Monday night)
 
 ### Wednesday
 
@@ -74,19 +76,18 @@ A week-by-week breakdown of the material.
 - Direct and Contrapositive proofs for divisibility
 - Direct and Contrapositive proofs for congruence
 - Direct and Contrapositive proofs for real numbers
-- Quiz 6 (Due Monday night)
+- Quiz 6 (Due Tuesday night)
 
 ### Thursday
 
 - Proofs involving sets
 - Properties of set operations
 - Proofs involving cartesian products of sets
-- Quiz 7 (Due Tuesday night)
+- Quiz 7 (Due Wednesday night)
 
 ### Friday
 
 - Catching up
-- Quiz 9 (Due Thursday night)
 - Exam 2
 
 ## Week  3
@@ -97,32 +98,31 @@ A week-by-week breakdown of the material.
 - Proofs by contradiction
 - Existence proofs
 - Disproving existence statements
-- Quiz 8 (Due Wednesday night)
+- Quiz 8 (Due Sunday night)
 
 ### Tuesday
 
 - Principle of Mathematical Induction
 - General Principle of Mathematical Induction
 - Strong Principle of Mathematical Induction
-- Quiz 10 (Due Sunday night)
+- Quiz 9 (Due Monday night)
 
 ### Wednesday
 
 - Proofs by Minimum Counterexample
 - Conjectures
 - Introduction to Relations
-- Quiz 11 (Due Monday night)
+- Quiz 10 (Due Tuesday night)
 
 ### Thursday
 
 - Properties of Relations
 - Equivalence Relations
-- Quiz 12 (Due Tuesday night)
+- Quiz 11 (Due Wednesday night)
 
 ### Friday
 
 - Catchup
-- Quiz 14 (Due Thursday night)
 - Exam 3
 
 ## Week  4
@@ -131,33 +131,32 @@ A week-by-week breakdown of the material.
 
 - Equivalence Classes
 - Congruences as an equivalence
-- Quiz 13 (Due Wednesday night)
+- Quiz 12 (Due Sunday night)
 
 ### Tuesday
 
 - Arithmetic on Integers modulo n
 - Definition of functions
-- Quiz 15 (Due Sunday night)
+- Quiz 13 (Due Monday night)
 
 ### Wednesday
 
 - One-to-one and onto functions
 - Bijective functions, Inverse function
 - Image and inverse image of sets under functions/relations. Properties
-- Quiz 16 (Due Monday night)
+- Quiz 14 (Due Tuesday night)
 
 ### Thursday
 
 - Numerically Equivalent sets
 - Denumerable sets
-- Quiz 17 (Due Tuesday night)
+- Quiz 15 (Due Wednesday night)
 
 ### Friday
 
 - Uncountable sets
 - Comparing cardinalities
 - Schroder-Bernstein theorem
-- Quiz 18 (Due Wednesday night)
 - Wrap-up
 - Exam 4
 
