@@ -69,17 +69,21 @@ A week-by-week breakdown of the material.
 - Prepare for class presentation:
     - Exercises 3.10, 3.18
 - [Quiz 5](https://moodle.hanover.edu/mod/quiz/view.php?id=19782) (Due Monday night)
+- [Homework 6 due Wednesday](assignments/hw6.md)
 
 ### Wednesday
 
-- Proof by cases
-- Direct and Contrapositive proofs for divisibility
-- Direct and Contrapositive proofs for congruence
-- Direct and Contrapositive proofs for real numbers
-- Quiz 6 (Due Tuesday night)
+- [Proof by cases](notes/proofs_cases.md)
+- [Direct and Contrapositive proofs for divisibility](notes/proofs_divisibility.md)
+- [Direct and Contrapositive proofs for congruence](notes/proofs_congruence.md)
+- Prepare for class presentation:
+    - Exercises 3.28, 4.16
+- [Quiz 6](https://moodle.hanover.edu/mod/quiz/view.php?id=19786) (Due Tuesday night)
+- [Homework 7 due Thursday](assignments/hw7.md)
 
 ### Thursday
 
+- Direct and Contrapositive proofs for real numbers
 - Proofs involving sets
 - Properties of set operations
 - Proofs involving cartesian products of sets
