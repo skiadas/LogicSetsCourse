@@ -83,11 +83,13 @@ A week-by-week breakdown of the material.
 
 ### Thursday
 
-- Direct and Contrapositive proofs for real numbers
-- Proofs involving sets
-- Properties of set operations
-- Proofs involving cartesian products of sets
-- Quiz 7 (Due Wednesday night)
+- [Direct and Contrapositive proofs for real numbers](notes/proofs_reals.md)
+- [Proofs involving sets](notes/proofs_sets.md)
+- [Properties of set operations, cartesian products](notes/set_properties.md)
+- Prepare for class presentation:
+    - Exercises 4.34, 4.38, 4.44, 4.58, 4.62, 4.64
+- [Quiz 7](https://moodle.hanover.edu/mod/quiz/view.php?id=19787) (Due Wednesday night)
+- [Homework 8 due Friday](assignments/hw8.md)
 
 ### Friday
 
