@@ -100,11 +100,13 @@ A week-by-week breakdown of the material.
 
 ### Monday
 
-- Proofs by counterexample
-- Proofs by contradiction
-- Existence proofs
-- Disproving existence statements
-- Quiz 8 (Due Sunday night)
+- [Proofs by counterexample](notes/proofs_counterexample.md)
+- [Proofs by contradiction](notes/proofs_contradiction.md)
+- [Existence proofs](notes/proofs_existence.md)
+- Prepare for class presentation:
+    - Exercises 5.6, 5.18
+- [Quiz 8](https://moodle.hanover.edu/mod/quiz/view.php?id=19997) (Due Sunday night)
+- [Homework 9 due Tuesday](assignments/hw9.md)
 
 ### Tuesday
 
