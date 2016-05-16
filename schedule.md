@@ -110,14 +110,17 @@ A week-by-week breakdown of the material.
 
 ### Tuesday
 
-- Principle of Mathematical Induction
-- General Principle of Mathematical Induction
-- Strong Principle of Mathematical Induction
-- Quiz 9 (Due Monday night)
+- [Principle of Mathematical Induction](notes/mathematical_induction.md)
+- [General Principle of Mathematical Induction](notes/general_induction.md)
+- [Proofs by Minimum Counterexample](notes/proofs_minimum_counterexample.md)
+- Prepare for class presentation:
+    - Exercises 6.8, 6.18
+- [Quiz 9](https://moodle.hanover.edu/mod/quiz/view.php?id=20014) (Due Monday night)
+- [Homework 10 due Wednesday](assignments/hw10.md)
 
 ### Wednesday
 
-- Proofs by Minimum Counterexample
+- Strong Principle of Mathematical Induction
 - Conjectures
 - Introduction to Relations
 - Quiz 10 (Due Tuesday night)
