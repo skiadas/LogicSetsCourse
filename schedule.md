@@ -120,10 +120,13 @@ A week-by-week breakdown of the material.
 
 ### Wednesday
 
-- Strong Principle of Mathematical Induction
-- Conjectures
-- Introduction to Relations
-- Quiz 10 (Due Tuesday night)
+- [Strong Principle of Mathematical Induction](notes/strong_induction.md)
+- [Testing Statements](notes/testing_statements.md)
+- [Introduction to Relations](notes/relations_intro.md)
+- Prepare for class presentation:
+    - Exercises 6.44, 7.33, 7.50, 7.68, 8.4
+- [Quiz 10](https://moodle.hanover.edu/mod/quiz/view.php?id=20039) (Due Tuesday night)
+- [Homework 11 due Wednesday](assignments/hw11.md)
 
 ### Thursday
 
