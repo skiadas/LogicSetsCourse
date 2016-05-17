@@ -126,13 +126,16 @@ A week-by-week breakdown of the material.
 - Prepare for class presentation:
     - Exercises 6.44, 7.33, 7.50, 7.68, 8.4
 - [Quiz 10](https://moodle.hanover.edu/mod/quiz/view.php?id=20039) (Due Tuesday night)
-- [Homework 11 due Wednesday](assignments/hw11.md)
+- [Homework 11 due Thursday](assignments/hw11.md)
 
 ### Thursday
 
-- Properties of Relations
-- Equivalence Relations
-- Quiz 11 (Due Wednesday night)
+- [Properties of Relations](notes/relations_properties.md)
+- [Equivalence Relations](notes/relations_equivalence.md)
+- Prepare for class presentation:
+    - Exercises 8.14, 8.18, 8.28, 8.29
+- [Quiz 11](https://moodle.hanover.edu/mod/quiz/view.php?id=20078) (Due Wednesday night)
+- [Homework 12 due Friday](assignments/hw12.md)
 
 ### Friday
 
