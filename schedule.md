@@ -130,12 +130,7 @@ A week-by-week breakdown of the material.
 
 ### Thursday
 
-- [Properties of Relations](notes/relations_properties.md)
-- [Equivalence Relations](notes/relations_equivalence.md)
-- Prepare for class presentation:
-    - Exercises 8.14, 8.18, 8.28, 8.29
-- [Quiz 11](https://moodle.hanover.edu/mod/quiz/view.php?id=20078) (Due Wednesday night)
-- [Homework 12 due Friday](assignments/hw12.md)
+- Review/Catchup
 
 ### Friday
 
@@ -146,34 +141,34 @@ A week-by-week breakdown of the material.
 
 ### Monday
 
-- Equivalence Classes
-- Congruences as an equivalence
-- Quiz 12 (Due Sunday night)
+- [Properties of Relations](notes/relations_properties.md)
+- [Equivalence Relations](notes/relations_equivalence.md)
+- Prepare for class presentation:
+    - Exercises 8.14, 8.18, 8.28, 8.29
+- [Quiz 11](https://moodle.hanover.edu/mod/quiz/view.php?id=20078) (Due Sunday night)
+- [Homework 12 due Tuesday](assignments/hw12.md)
 
 ### Tuesday
 
+- Equivalence Classes
+- Congruences as an equivalence
 - Arithmetic on Integers modulo n
-- Definition of functions
-- Quiz 13 (Due Monday night)
+- Quiz 12 (Due Monday night)
 
 ### Wednesday
 
+- Definition of functions
 - One-to-one and onto functions
 - Bijective functions, Inverse function
-- Image and inverse image of sets under functions/relations. Properties
-- Quiz 14 (Due Tuesday night)
+- Quiz 13 (Due Tuesday night)
 
 ### Thursday
 
-- Numerically Equivalent sets
-- Denumerable sets
-- Quiz 15 (Due Wednesday night)
+- Image and inverse image of sets under functions/relations. Properties
+- Quiz 14 (Due Wednesday night)
 
 ### Friday
 
-- Uncountable sets
-- Comparing cardinalities
-- Schroder-Bernstein theorem
 - Wrap-up
 - Exam 4
 
