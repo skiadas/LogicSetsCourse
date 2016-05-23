@@ -141,31 +141,35 @@ A week-by-week breakdown of the material.
 
 ### Monday
 
+- Sick day
+
+
+### Tuesday
+
 - [Properties of Relations](notes/relations_properties.md)
 - [Equivalence Relations](notes/relations_equivalence.md)
 - Prepare for class presentation:
     - Exercises 8.14, 8.18, 8.28, 8.29
 - [Quiz 11](https://moodle.hanover.edu/mod/quiz/view.php?id=20078) (Due Sunday night)
-- [Homework 12 due Tuesday](assignments/hw12.md)
-
-### Tuesday
-
-- Equivalence Classes
-- Congruences as an equivalence
-- Arithmetic on Integers modulo n
-- Quiz 12 (Due Monday night)
+- [Homework 12 due Wednesday](assignments/hw12.md)
 
 ### Wednesday
+
+- [Equivalence Classes](notes/equivalence_classes.md)
+- [Congruences as an equivalence](notes/equivalence_congruence.md)
+- Optional reading: Arithmetic on Integers modulo n, section 8.6
+- Prepare for class presentation:
+    - Exercises 8.36, 8.41, 8.42, 8.46
+- [Quiz 12](https://moodle.hanover.edu/mod/quiz/view.php?id=20165) (Due Tuesday night)
+- [Homework 13 due Thursday](assignments/hw13.md)
+
+### Thursday
 
 - Definition of functions
 - One-to-one and onto functions
 - Bijective functions, Inverse function
-- Quiz 13 (Due Tuesday night)
-
-### Thursday
-
 - Image and inverse image of sets under functions/relations. Properties
-- Quiz 14 (Due Wednesday night)
+- Quiz 13 (Due Tuesday night)
 
 ### Friday
 
