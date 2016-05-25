@@ -165,11 +165,12 @@ A week-by-week breakdown of the material.
 
 ### Thursday
 
-- Definition of functions
-- One-to-one and onto functions
-- Bijective functions, Inverse function
-- Image and inverse image of sets under functions/relations. Properties
+- [Definition of functions](notes/functions.md)
+- Optional reading, highly recommended for anyone with interest in higher mathematics: 9.3-9.5
+- Prepare for class presentation:
+    - Exercises 9.8, 9.12
 - Quiz 13 (Due Tuesday night)
+- [Homework 14 due Friday](assignments/hw14.md)
 
 ### Friday
 
